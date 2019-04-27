@@ -1,6 +1,6 @@
 {
   "name": "react-document-attributes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hooks for setting attributes on the html and body tags",
   "main": "dist/umd/index.js",
   "module": "dist/es/index.js",
